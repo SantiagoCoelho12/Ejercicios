@@ -1,0 +1,5 @@
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\DirectorioPerros\bin\Debug\DirectorioPerros.dll
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\DirectorioPerros\bin\Debug\DirectorioPerros.pdb
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\DirectorioPerros\obj\Debug\DirectorioPerros.dll
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\DirectorioPerros\obj\Debug\DirectorioPerros.pdb
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\DirectorioPerros\obj\Debug\DirectorioPerros.csprojResolveAssemblyReference.cache

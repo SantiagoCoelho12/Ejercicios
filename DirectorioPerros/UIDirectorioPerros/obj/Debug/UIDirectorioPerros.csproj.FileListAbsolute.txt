@@ -1,0 +1,12 @@
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\UIDirectorioPerros\bin\Debug\UIDirectorioPerros.exe.config
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\UIDirectorioPerros\obj\Debug\UIDirectorioPerros.csprojResolveAssemblyReference.cache
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\UIDirectorioPerros\obj\Debug\UIDirectorioPerros.Properties.Resources.resources
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\UIDirectorioPerros\obj\Debug\UIDirectorioPerros.UIprincipal.resources
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\UIDirectorioPerros\obj\Debug\UIDirectorioPerros.csproj.GenerateResource.Cache
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\UIDirectorioPerros\bin\Debug\UIDirectorioPerros.exe
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\UIDirectorioPerros\bin\Debug\UIDirectorioPerros.pdb
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\UIDirectorioPerros\bin\Debug\DirectorioPerros.dll
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\UIDirectorioPerros\bin\Debug\DirectorioPerros.pdb
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\UIDirectorioPerros\obj\Debug\UIDirectorioPerros.exe
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\UIDirectorioPerros\obj\Debug\UIDirectorioPerros.pdb
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\UIDirectorioPerros\obj\Debug\UIDirectorioPerros.AgregarDuenio.resources

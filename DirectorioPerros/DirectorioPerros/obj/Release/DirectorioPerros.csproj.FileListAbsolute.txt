@@ -1,0 +1,4 @@
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\DirectorioPerros\bin\Release\DirectorioPerros.dll
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\DirectorioPerros\bin\Release\DirectorioPerros.pdb
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\DirectorioPerros\obj\Release\DirectorioPerros.dll
+c:\users\colo\documents\visual studio 2015\Projects\DirectorioPerros\DirectorioPerros\obj\Release\DirectorioPerros.pdb
